@@ -23,7 +23,7 @@ To install the PWA, click menu > install Budget App.
 
 ## Usage 
 
-To use this application, follow the link on the repository page; otherwise, you can [click here](). Simple click the buttons and add your expenses/deposits as needed. 
+To use this application, follow the link on the repository page; otherwise, you can [click here](https://pwabudgettrackerapp.herokuapp.com/). Simple click the buttons and add your expenses/deposits as needed. 
 
 ## Credits 
 
